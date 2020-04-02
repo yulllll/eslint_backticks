@@ -1,0 +1,16 @@
+{
+  "env": {
+    "es6": true
+  },
+  "rules": {
+    "quotes": [
+      "error",
+      "single",
+      {
+        "avoidEscape": true
+      }
+    ],
+    "no-useless-concat": "error",
+    "prefer-template": "error"
+  }
+}
